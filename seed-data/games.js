@@ -1,0 +1,102 @@
+const games = [
+  {
+    title: 'Super Mario World',
+    developer: 'Nintendo EAD',
+    publisher: 'Nintendo',
+    year: 1990,
+  },
+  {
+    title: 'Quake II',
+    developer: 'id Software',
+    publisher: 'Activision',
+    year: 1997,
+    url: 'https://store.steampowered.com/app/2320/Quake_II/',
+  },
+  {
+    title: 'The Witness',
+    developer: 'Thekla, Inc.',
+    publisher: 'Thekla, Inc.',
+    year: 2016,
+    url: 'https://store.steampowered.com/app/210970/The_Witness/',
+  },
+  {
+    title: 'PUBG: Battlegrounds',
+    developer: 'PUBG Studios',
+    publisher: 'Krafton',
+    year: 2017,
+    url: 'https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/',
+  },
+  {
+    title: 'The New York Times Crossword',
+    publisher: 'The New York Times',
+    url: 'https://www.nytimes.com/crosswords',
+  },
+  {
+    title: 'Metroid',
+    developer: 'Nintendo R&D1, Intelligent Systems',
+    publisher: 'Nintendo',
+    year: 1986,
+    url: 'https://arcadespot.com/game/metroid/',
+  },
+  {
+    title: 'Resident Evil',
+    developer: 'Capcom',
+    publisher: 'Capcom',
+    year: 1996,
+    url: 'https://store.steampowered.com/app/304240/Resident_Evil/',
+  },
+  {
+    title: 'Far Cry 2',
+    developer: 'Ubisoft Montreal',
+    publisher: 'Ubisoft',
+    year: 2008,
+    url: 'https://store.steampowered.com/app/19900/Far_Cry_2/',
+  },
+  {
+    title: "Demon's Souls",
+    developer: 'FromSoftware',
+    publisher: 'Sony Computer Entertainment',
+    year: 2009,
+    url: 'https://www.playstation.com/en-us/games/demons-souls/',
+  },
+  {
+    title: 'Sea of Thieves',
+    developer: 'Rare',
+    publisher: 'Xbox Game Studios',
+    year: 2018,
+    url: 'https://store.steampowered.com/app/1172620/Sea_of_Thieves_2024_Edition/',
+  },
+  {
+    title: 'Theme Park',
+    developer: 'Bullfrog Productions',
+    publisher: 'Electronic Arts',
+    year: 1994,
+    url: 'https://playclassic.games/games/simulation-dos-games-online/play-theme-park-online/',
+  },
+  {
+    title: 'Princess Maker 3',
+    developer: 'Gainax',
+    publisher: 'Gainax',
+    year: 1997,
+    url: 'https://store.steampowered.com/app/1155980/Princess_Maker_Faery_Tales_Come_True_HD_Remake/',
+  },
+  {
+    title: 'PernMUSH',
+    url: 'https://muds.fandom.com/wiki/PernMUSH',
+  },
+  {
+    title: 'Savoir-Faire',
+    developer: 'Emily Short',
+    year: 2002,
+    url: 'https://textadventures.co.uk/games/view/wrZWq7oOREWFlc4ca-Y2CQ/savoir-faire',
+  },
+  {
+    title: 'Persona 4 Golden',
+    developer: 'Atlus',
+    publisher: 'Atlus',
+    year: 2008,
+    url: 'https://store.steampowered.com/app/1113000/Persona_4_Golden/',
+  },
+];
+
+export default games;
